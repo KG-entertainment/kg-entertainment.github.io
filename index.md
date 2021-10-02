@@ -1,4 +1,4 @@
 #プライバシーポリシー(ja)
 
-[QRcodeCollate](QRcodeCollate/PrivacyPolicy.html)
+[QRcodeCollate](QRcodeCollate/PrivacyPolicy_ja.html)
 
